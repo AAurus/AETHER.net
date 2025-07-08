@@ -10,11 +10,11 @@
 - [[God of Dragons]]
 - 
 # Archaltes
--  [[Avatar of the Stem]]
-- [[Avatar of the Root]]
-- [[Avatar of the Leaf]]
-- [[Avatar of Fiends]]
--  [[Avatar of Celestials]]
+-  [[Gods/Avatars/Avatar of the Stem]]
+- [[Gods/Avatars/Avatar of the Root]]
+- [[Gods/Avatars/Avatar of the Leaf]]
+- [[Gods/Avatars/Avatar of Fiends]]
+-  [[Gods/Avatars/Avatar of Celestials]]
 # Cyberron
 - [[Overseer of Order]]
 - 
@@ -23,11 +23,11 @@
 # New Babyllis
 -
 # Blindlands
--  [[Archon of Mutation]]
--  [[Archon of Catastrophe]]
--  [[Archon of Growth]]
-- [[Archon of Rot]]
-- [[Archon of Chaos]]
+-  [[Gods/Archons/Archon of Mutation]]
+-  [[Gods/Archons/Archon of Catastrophe]]
+-  [[Gods/Archons/Archon of Growth]]
+- [[Gods/Archons/Archon of Rot]]
+- [[Gods/Archons/Archon of Chaos]]
 - 
 
 # Old Cryptophos

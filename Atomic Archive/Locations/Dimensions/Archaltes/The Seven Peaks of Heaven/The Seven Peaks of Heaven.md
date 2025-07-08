@@ -1,4 +1,4 @@
-Domain of the [[Avatar of Celestials]]
+Domain of the [[Gods/Avatars/Avatar of Celestials]]
 
 
 [[PEAK I]]

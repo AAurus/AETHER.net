@@ -1,7 +1,0 @@
-- Mechanical version of dragons built to live on cyberron, where no dragons naturally evolved or w/e
-- Made by a single dragon who travelled to cyberron post-new wilds joining the rest of the aether world, who has since left cyberron
-- Powered by a modified version of a power crystal (basically a power source in the new wilds), which runs on lower magic concentrations and recharges on its own instead of needing to be charged by a spellcaster
-	- These crystals act like batteries and deteriorate over time, to where they need to be replaced
-	- If a power crystal deteriorates or is destroyed, they don’t insta die- they instead power down. Their soul will eventually leave their body if the power crystal isn’t replaced in which case they’re actually dead.
-	- Their bodies can repair using energy from the power crystal, but if they sustain enough damage they may also shut down. Generally, this shut down will be temporary and they will power back on once their body is repaired enough where they can sustain themself. Although if they’re absolutely crumpled or torn to shreds or w/e the chance of them coming back on their own is uhh. not a lot  
-		- In the case of aetherborne mechanical dragons, they can instead chose to be revived during this process.

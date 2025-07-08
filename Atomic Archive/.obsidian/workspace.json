@@ -11,20 +11,24 @@
             "id": "151f8ee7aa954eec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ender Characters/Misty Hollows/Eyvindr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eyvindr"
             }
           },
           {
             "id": "e3cd51cf51e97195",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -46,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -58,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eyvind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,14 +169,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "151f8ee7aa954eec",
+  "active": "065ebb53a76e59c8",
   "lastOpenFiles": [
+    "Atomic Archive/Characters/Ender Characters/New Wilds/Stigandr.md",
+    "Characters/Ender Characters/Misty Hollows/Eyvindr.md",
+    "Atomic Archive/Characters/Ender Characters/Misty Hollows/Eyvindr.md",
+    "Locations/Dimensions.md",
+    "Gods/Avatars/Avatar of Celestials.md",
+    "Gods/Archons/Archon of Catastrophe.md",
+    "Gods/Avatars",
+    "Characters/Flipknights Characters/Pharana Aile Infini.md",
+    "Gods/Archons",
+    "Characters/Ender Characters/Archaltes/Chkk Dawn.md",
     "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE IX.md",
     "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE I.md",
-    "Gods/Archon of Catastrophe.md",
     "Characters/Other Characters/Orchaltis.md",
     "Characters/Nox Characters/Achelous Phoenixheart.md",
-    "Characters/Flipknights Characters/Pharana Aile Infini.md",
     "Misc/Library/Old Heris Note thing that is outdated at this point.md",
     "Misc/Library/Cursed Project (Play).md",
     "Misc/Fun atuff/MTG posting.md",
@@ -189,12 +202,6 @@
     "Locations/Dimensions/Archaltes/The Seven Peaks of Heaven/The Seven Peaks of Heaven.md",
     "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE VIII.md",
     "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE VII.md",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE VI.md",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE V.md",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE IV.md",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE III.md",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE II.md",
-    "Characters/Ender Characters/Archaltes/Eligos.md",
     "Locations/Dimensions/Archaltes/The Seven Peaks of Heaven",
     "Locations/Dimensions/Archaltes/The Nine Provinces of Hell",
     "Locations/Dimensions/Archaltes",
@@ -207,8 +214,6 @@
     "Images/Memes/char.jpg",
     "Images/Memes",
     "Images/Old notes",
-    "Misc/Templates",
-    "Misc/Library",
     "Images/Solgur’s domain.png",
     "Images/Stigandr image ref thing.png"
   ]

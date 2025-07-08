@@ -1,3 +1,0 @@
-- [[Tsukanda Technologies]]
-- [[Yamanaka Metalworks]]
-- 

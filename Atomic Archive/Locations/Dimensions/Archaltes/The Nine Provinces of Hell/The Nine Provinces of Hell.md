@@ -1,5 +1,5 @@
 
-Domain of the [[Avatar of Fiends]]
+Domain of the [[Gods/Avatars/Avatar of Fiends]]
 
 
 
