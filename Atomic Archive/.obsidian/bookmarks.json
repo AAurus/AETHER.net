@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1741815271544,
+      "path": "Characters/Misc Characters.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1745011223297,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1745011206643,
+          "path": "Characters/Ender Characters/New Wilds/Aivronti Opherri.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1745011216945,
+          "path": "Characters/Ender Characters/Cyberron/Keiranis Opherri.md"
+        }
+      ],
+      "title": "Opherri Family"
+    }
+  ]
+}
