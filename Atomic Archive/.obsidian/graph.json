@@ -20,6 +20,27 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:Gods",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Species ",
+      "color": {
+        "a": 1,
+        "rgb": 5431466
+      }
+    },
+    {
+      "query": "path:Factions  ",
+      "color": {
+        "a": 1,
+        "rgb": 3308457
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +53,6 @@
   "repelStrength": 13.4375,
   "linkStrength": 1,
   "linkDistance": 89,
-  "scale": 0.5215563196546126,
+  "scale": 0.0962914291862149,
   "close": false
 }

@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ender Characters/Misty Hollows/Eyvindr.md",
+                "file": "Characters/Player Characters/Pharana Aile Infini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eyvindr"
+              "title": "Pharana Aile Infini"
             }
           },
           {
             "id": "e3cd51cf51e97195",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Gods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods"
             }
           }
         ]
@@ -63,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eyvind",
+                "query": "tag:#Deceased",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Player Characters/Pharana Aile Infini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pharana Aile Infini"
             }
           },
           {
@@ -122,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Player Characters/Pharana Aile Infini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Pharana Aile Infini"
             }
           },
           {
@@ -136,7 +142,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -147,17 +155,32 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Characters/Player Characters/Pharana Aile Infini.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pharana Aile Infini"
+            }
+          },
+          {
+            "id": "b89e2eea9507f92a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,54 +189,55 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "065ebb53a76e59c8",
   "lastOpenFiles": [
-    "Atomic Archive/Characters/Ender Characters/New Wilds/Stigandr.md",
+    "Gods/Gods.md",
+    "Characters/Flipknights Characters/NPCs/Neutral Party/Aether, Lower Court 23rd Seat.md",
+    "Characters/Flipknights Characters/NPCs/Neutral Party/LOANWOLF.md",
+    "Characters/Flipknights Characters/NPCs/Aether/Aether, Middle Court 15th Seat.md",
+    "Characters/Flipknights Characters/NPCs/Aether/Aether, Lower Court 14th Seat.md",
+    "Characters/Flipknights Characters/NPCs/Aether/Aether, Lower Court 6th Seat.md",
+    "Characters/Player Characters/Pharana Aile Infini.md",
+    "Characters/Player Characters/Pharana Aile Infini.md",
+    "Gods/Avatar of Celestials.md",
+    "Gods/Archons/Archon of Chaos 1.md",
+    "Gods/Archons/Archon of Catastrophe 1.md",
     "Characters/Ender Characters/Misty Hollows/Eyvindr.md",
+    "Characters/Flipknights Characters/NPCs/WRAITH/WRAITH CEO.md",
+    "Characters/Flipknights Characters/NPCs/WRAITH",
+    "Characters/Flipknights Characters/NPCs/Aether",
+    "Characters/Flipknights Characters/NPCs/Neutral Party",
+    "Characters/Flipknights Characters/NPCs",
+    "Untitled",
+    "Gods/Archons/Archon of Mutation 1.md",
+    "Gods/Avatar of Fiends.md",
+    "Gods/Avatar of the Root.md",
+    "Gods/Avatar of the Leaf.md",
+    "Gods/Archons/Archon of Growth 1.md",
+    "Gods/Avatar of the Stem.md",
+    "Gods/Archons/Archon of Rot 1.md",
+    "Characters/Player Characters",
+    "Atomic Archive/Characters/Ender Characters/New Wilds/Stigandr.md",
     "Atomic Archive/Characters/Ender Characters/Misty Hollows/Eyvindr.md",
     "Locations/Dimensions.md",
     "Gods/Avatars/Avatar of Celestials.md",
     "Gods/Archons/Archon of Catastrophe.md",
     "Gods/Avatars",
-    "Characters/Flipknights Characters/Pharana Aile Infini.md",
     "Gods/Archons",
     "Characters/Ender Characters/Archaltes/Chkk Dawn.md",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE IX.md",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE I.md",
-    "Characters/Other Characters/Orchaltis.md",
-    "Characters/Nox Characters/Achelous Phoenixheart.md",
-    "Misc/Library/Old Heris Note thing that is outdated at this point.md",
-    "Misc/Library/Cursed Project (Play).md",
-    "Misc/Fun atuff/MTG posting.md",
     "Misc/Fun atuff/IMG_7036.jpg",
-    "Characters/Ender Characters/Robot guy.md",
-    "Species/Species.md",
     "Unsorted/Backstory Timeline Stuff.canvas",
-    "Characters/Ender Characters/Armaria/Shatter.md",
-    "Untitled",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/The Nine Provinces of Hell.md",
-    "Characters/Nox Characters/Cyberron/Malachite.md",
-    "Characters/Nox Characters/Cyberron/Dracon Moore.md",
-    "Random Ideas Note.md",
-    "Characters/Nox Characters/New Wilds/Saarek Lesse.md",
-    "Locations/Dimensions/Archaltes/The Seven Peaks of Heaven/The Seven Peaks of Heaven.md",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE VIII.md",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell/PROVINCE VII.md",
     "Locations/Dimensions/Archaltes/The Seven Peaks of Heaven",
     "Locations/Dimensions/Archaltes/The Nine Provinces of Hell",
-    "Locations/Dimensions/Archaltes",
-    "Characters/Ender Characters/Cyberron/Oikonomou Family/Deceased",
-    "Characters/Ender Characters/New Wilds/Harmont",
     "Images/Old notes/Old Keiranis notes.png",
     "Images/Old notes/Old Stigandr Notes.png",
     "Images/Old notes/old Suuna notes.png",
     "Images/Memes/corronitas.png",
     "Images/Memes/char.jpg",
-    "Images/Memes",
-    "Images/Old notes",
     "Images/Solgur’s domain.png",
     "Images/Stigandr image ref thing.png"
   ]
