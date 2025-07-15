@@ -39,10 +39,10 @@
             "id": "0678680433c86beb",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -206,6 +206,8 @@
   },
   "active": "0678680433c86beb",
   "lastOpenFiles": [
+    "Characters/Other Characters/HELL - DO NOT OPEN/Karryios.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Eligos.md",
     "Gods/Gods.md",
     "Characters/Other Characters/HELL - DO NOT OPEN/Avnas.md",
     "Characters/Other Characters/HELL - DO NOT OPEN/Zepar.md",
@@ -230,8 +232,6 @@
     "Characters/Other Characters/HELL - DO NOT OPEN/Paimonia.md",
     "Characters/Other Characters/HELL - DO NOT OPEN/Ose.md",
     "Characters/Other Characters/HELL - DO NOT OPEN/Orobas.md",
-    "Characters/Other Characters/HELL - DO NOT OPEN/Orias.md",
-    "Characters/Other Characters/HELL - DO NOT OPEN/Naberius.md",
     "Events",
     "Characters/Other Characters/HELL - DO NOT OPEN",
     "Untitled.canvas",

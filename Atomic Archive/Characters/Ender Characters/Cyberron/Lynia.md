@@ -1,3 +1,5 @@
+#Endercoil
+
 - Diviner Wizard that ended up studying soul magic
 - Works in tech somehow?
 	- silly idea: diviner wizard that’s a coder who uses magic to figure out what’s causing a bug

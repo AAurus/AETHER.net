@@ -1,3 +1,4 @@
+#Endercoil
 **Vitaliy Miklós Szarka**, also known as their Callsign **Shatter**, is an [[Elf]] from [[Armaria]].
 
 

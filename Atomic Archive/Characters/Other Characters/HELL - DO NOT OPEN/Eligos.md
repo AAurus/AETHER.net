@@ -1,4 +1,4 @@
-#hell
+#Endercoil #hell
 - Works under [[Beleth]] in [[PROVINCE VI]]
 - perhaps originally from [[Province VIII]]?
 - do i make him beleth's twink boytoy or whatever

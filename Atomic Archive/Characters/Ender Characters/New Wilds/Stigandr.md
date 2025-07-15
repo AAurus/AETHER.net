@@ -1,3 +1,4 @@
+#Endercoil 
 **Stígandr** is a [[Homunculus]] [[Aetherborne]] living in the [[New Wilds]].
 ![[Stigandr image ref thing.png]]
 

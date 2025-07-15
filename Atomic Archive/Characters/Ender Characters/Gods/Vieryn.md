@@ -1,4 +1,4 @@
-
+#Endercoil
 - Awful
 - if the fact he does awful shit is pointed out he will just be like “I’m just doing my job :3”
 - once he becomes enemies with someone he gets a concerning amount of information on them to just. Torture them with really
