@@ -1,3 +1,4 @@
+#hell #stub
 GREED/AVARITIA
 KING: [[Zagan]]
 

@@ -1,3 +1,4 @@
+#hell #stub
 VAINGLORY/VANAGLORIA
 King: [[Paimonia]]
 

@@ -1,3 +1,4 @@
+#hell #stub
 PRIDE/SUPERBIA
 King: [[Baal]]
 
@@ -9,3 +10,4 @@ King: [[Baal]]
 - [[Flauros]] (Duke)
 - [[Gusion]] (Duke)
 - [[Marbas]] (president)
+

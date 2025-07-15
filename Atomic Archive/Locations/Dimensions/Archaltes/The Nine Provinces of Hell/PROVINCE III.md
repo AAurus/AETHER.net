@@ -1,3 +1,4 @@
+#hell #stub
 LUST/LUXURIA
 King: [[Asmodeus]]
 

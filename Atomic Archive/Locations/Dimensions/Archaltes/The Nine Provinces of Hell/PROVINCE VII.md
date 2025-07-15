@@ -1,3 +1,4 @@
+#hell #stub
 SLOTH/ACEDIA
 KING: [[Purson]]
 

@@ -1,5 +1,5 @@
 #### Settlements
-- [[Mitsilveln 1]] (City)
+- [[Mitsilveln]] (City)
 - [[Harmont]] (Town)
 - [[Aven]] (Port)
 #### Landmarks (?)

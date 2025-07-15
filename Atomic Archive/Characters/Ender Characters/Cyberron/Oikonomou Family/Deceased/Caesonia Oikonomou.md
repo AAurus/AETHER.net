@@ -1,3 +1,5 @@
+#Endercoil #stub #Deceased 
+
 
 
 # Relationships
@@ -13,5 +15,3 @@
 ### [[Valerius Oikonomou]] - Son
 
 ### [[Marcus Caecor]] - Son
-# Tags
-#Deceased 

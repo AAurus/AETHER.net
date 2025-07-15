@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "Gods"
             }
+          },
+          {
+            "id": "0678680433c86beb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,46 +204,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "065ebb53a76e59c8",
+  "active": "0678680433c86beb",
   "lastOpenFiles": [
     "Gods/Gods.md",
-    "Characters/Flipknights Characters/NPCs/Neutral Party/Aether, Lower Court 23rd Seat.md",
-    "Characters/Flipknights Characters/NPCs/Neutral Party/LOANWOLF.md",
-    "Characters/Flipknights Characters/NPCs/Aether/Aether, Middle Court 15th Seat.md",
-    "Characters/Flipknights Characters/NPCs/Aether/Aether, Lower Court 14th Seat.md",
-    "Characters/Flipknights Characters/NPCs/Aether/Aether, Lower Court 6th Seat.md",
-    "Characters/Player Characters/Pharana Aile Infini.md",
-    "Characters/Player Characters/Pharana Aile Infini.md",
-    "Gods/Avatar of Celestials.md",
-    "Gods/Archons/Archon of Chaos 1.md",
-    "Gods/Archons/Archon of Catastrophe 1.md",
-    "Characters/Ender Characters/Misty Hollows/Eyvindr.md",
-    "Characters/Flipknights Characters/NPCs/WRAITH/WRAITH CEO.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Avnas.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Zepar.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Zagan.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Vual.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Vinea.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Vepar.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Vassago.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Vapula.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Valefor.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Valac.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Stoppas.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Sitri.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Shax.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Sear.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Saleos.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Sabnock.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Ronove.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Raum.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Purson.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Phenex.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Paimonia.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Ose.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Orobas.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Orias.md",
+    "Characters/Other Characters/HELL - DO NOT OPEN/Naberius.md",
+    "Events",
+    "Characters/Other Characters/HELL - DO NOT OPEN",
+    "Untitled.canvas",
     "Characters/Flipknights Characters/NPCs/WRAITH",
     "Characters/Flipknights Characters/NPCs/Aether",
     "Characters/Flipknights Characters/NPCs/Neutral Party",
     "Characters/Flipknights Characters/NPCs",
     "Untitled",
-    "Gods/Archons/Archon of Mutation 1.md",
-    "Gods/Avatar of Fiends.md",
-    "Gods/Avatar of the Root.md",
-    "Gods/Avatar of the Leaf.md",
-    "Gods/Archons/Archon of Growth 1.md",
-    "Gods/Avatar of the Stem.md",
-    "Gods/Archons/Archon of Rot 1.md",
     "Characters/Player Characters",
-    "Atomic Archive/Characters/Ender Characters/New Wilds/Stigandr.md",
-    "Atomic Archive/Characters/Ender Characters/Misty Hollows/Eyvindr.md",
-    "Locations/Dimensions.md",
-    "Gods/Avatars/Avatar of Celestials.md",
-    "Gods/Archons/Archon of Catastrophe.md",
     "Gods/Avatars",
     "Gods/Archons",
-    "Characters/Ender Characters/Archaltes/Chkk Dawn.md",
     "Misc/Fun atuff/IMG_7036.jpg",
     "Unsorted/Backstory Timeline Stuff.canvas",
-    "Locations/Dimensions/Archaltes/The Seven Peaks of Heaven",
-    "Locations/Dimensions/Archaltes/The Nine Provinces of Hell",
     "Images/Old notes/Old Keiranis notes.png",
     "Images/Old notes/Old Stigandr Notes.png",
     "Images/Old notes/old Suuna notes.png",

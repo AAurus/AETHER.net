@@ -1,3 +1,4 @@
+#hell #stub
 ENVY/INVIDIA
 King: [[Vinea]]
 

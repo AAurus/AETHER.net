@@ -1,4 +1,4 @@
-**Stígandr** is a [[homunculus]] [[Aetherborne]] living in the [[New Wilds]].
+**Stígandr** is a [[Homunculus]] [[Aetherborne]] living in the [[New Wilds]].
 ![[Stigandr image ref thing.png]]
 
 ![[Old Stigandr Notes.png]]

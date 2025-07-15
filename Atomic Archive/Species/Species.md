@@ -4,7 +4,7 @@
 
 - [[Oni]] 
 
-
+- [[Homunculus]]
 
 - [[Mechanical Dragon]]
 
@@ -17,7 +17,7 @@
 
 ## Fey
 - [[Elf]]
-- Gnome?
+- [[Gnome]]?
 - [[Changeling]]
 - Hag
 - Fairy

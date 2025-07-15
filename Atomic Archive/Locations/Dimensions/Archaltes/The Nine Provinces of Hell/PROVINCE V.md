@@ -1,3 +1,4 @@
+#hell #stub
 GLUTTONY/GULA
 King: [[Belial]]
 
